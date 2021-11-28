@@ -1,4 +1,4 @@
-package session4;
+package SeleniumHomework;
 
 import org.junit.After;
 import org.junit.Before;
